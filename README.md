@@ -3,7 +3,8 @@
 
 ## Project Overview
 
-This project analyzes patterns in sleep and daily motor activity to understand the differences between individuals with depression and non-depressed individuals. Using actigraphy data from the [Depression Dataset on Kaggle](https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/arashnic/the-depression-dataset)), the analysis aims to identify significant variations in motor activity levels and sleep durations associated with different depressive states.
+This project analyzes patterns in sleep and daily motor activity to understand the differences between individuals with depression and non-depressed individuals. Using actigraphy data from the [Depression Dataset on Kaggle](
+https://www.kaggle.com/datasets/arashnic/the-depression-dataset), the analysis aims to identify significant variations in motor activity levels and sleep durations associated with different depressive states.
 
 The main objectives of this project are:
 1. **Sleep Pattern Analysis**: Compare sleep duration and activity levels between individuals with depressive symptoms and healthy controls.
